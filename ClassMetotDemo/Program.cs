@@ -13,6 +13,7 @@ namespace ClassMetotDemo
             musteri1.Yasi = 29;
             musteri1.YasadigiYer = "İstanbul/KÜÇÜKÇEKMECE";
 
+
             Musteri musteri2 = new Musteri();
             musteri2.Id = 2;
             musteri2.Adi = "Tülay";
